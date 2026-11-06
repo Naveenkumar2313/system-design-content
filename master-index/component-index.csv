@@ -1,0 +1,2 @@
+component_id,name,category,subcategory,difficulty,folder,status
+CMP-001,Load Balancer,Traffic Management,Request Distribution,Beginner-Intermediate,component-library/CMP-001-load-balancer,Draft

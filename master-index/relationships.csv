@@ -1,0 +1,2 @@
+source_type,source_id,relationship,target_type,target_id,notes
+case_study,CS-001,uses,component,CMP-001,Proposed evolved URL Shortener architecture uses a load balancer in front of replicated application instances.
