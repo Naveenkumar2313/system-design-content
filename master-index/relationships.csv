@@ -1,2 +1,7 @@
 source_type,source_id,relationship,target_type,target_id,notes
 case_study,CS-001,uses,component,CMP-001,Proposed evolved URL Shortener architecture uses a load balancer in front of replicated application instances.
+case_study,CS-006,uses,component,CMP-001,Proposed evolved Reverse Proxy architecture uses a load balancer to distribute connections across redundant proxy instances.
+case_study,CS-007,uses,component,CMP-001,Case Study 7 develops a system-level design for the reusable Load Balancer component.
+case_study,CS-008,uses,component,CMP-001,CDN architecture uses traffic distribution for origins and may use load balancing within delivery services.
+case_study,CS-009,uses,component,CMP-001,File upload APIs use load balancing across replicated gateway and upload-service instances.
+case_study,CS-010,uses,component,CMP-001,File download control-plane APIs use load balancing across replicated gateway and download-service instances.

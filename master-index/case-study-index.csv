@@ -1,2 +1,7 @@
 case_study_id,name,category,difficulty,folder,status,related_component_ids
 CS-001,Design a URL Shortener (Bitly),Web & Internet Systems,Beginner,case-studies/CS-001-url-shortener,Draft,CMP-001
+CS-006,Design a Reverse Proxy,Web & Internet Systems,Beginner-Intermediate,case-studies/CS-006-reverse-proxy,Draft,CMP-001
+CS-007,Design a Load Balancer,Web & Internet Systems,Beginner-Intermediate,case-studies/CS-007-load-balancer,Draft,CMP-001
+CS-008,Design a CDN (Content Delivery Network),Web & Internet Systems,Beginner-Intermediate,case-studies/CS-008-cdn,Draft,CMP-001
+CS-009,Design a File Upload Service,Web & Internet Systems,Beginner-Intermediate,case-studies/CS-009-file-upload-service,Draft,CMP-001
+CS-010,Design a File Download Service,Web & Internet Systems,Beginner-Intermediate,case-studies/CS-010-file-download-service,Draft,CMP-001
