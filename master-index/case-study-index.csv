@@ -1,2 +1,7 @@
 case_study_id,name,category,difficulty,folder,status,related_component_ids
 CS-001,Design a URL Shortener (Bitly),Web & Internet Systems,Beginner,case-studies/CS-001-url-shortener,Draft,CMP-001
+CS-002,Design a Pastebin,Web & Internet Systems,Beginner,case-studies/CS-002-Pastebin,Draft,CMP-002
+CS-003,Design a Web Hosting Platform,Web & Internet Systems,Beginner,case-studies/CS-003-web-hosting-platform,Draft,CMP-003
+CS-004,Design a Domain Registration System,Web & Internet Systems,Beginner,case-studies/CS-004-domain-registration-system,Draft,CMP-004
+CS-005,Design a DNS Service,Web & Internet Systems,Beginner,case-studies/CS-005-DNS,Draft,CMP-005
+CS-006,Design a Reverse Proxy,Web & Internet Systems,Beginner,case-studies/CS-006-reverse-proxy,Draft,CMP-006
