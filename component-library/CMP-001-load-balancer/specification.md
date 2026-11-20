@@ -16,7 +16,7 @@
 | Component type | Infrastructure / Traffic Management |
 | Short description | A component that distributes incoming requests across a set of backend targets according to a routing policy and target-health state. |
 | Related concepts | Client-server, HTTP, reverse proxy, health checks, routing, availability, horizontal scaling |
-| Related case studies | CS-001 URL Shortener (proposed architecture evolution); CS-007 Design a Load Balancer; CS-008 Design a CDN; CS-009 File Upload Service; CS-010 File Download Service |
+| Related case studies | CS-001 URL Shortener (proposed architecture evolution); CS-007 Design a Load Balancer; CS-008 Design a CDN; CS-009 File Upload Service; CS-010 File Download Service; CS-017 URL Preview Service; CS-018 Link Preview Generator; CS-019 Webhook Delivery Platform; CS-020 HTTP Proxy; CS-021 WhatsApp |
 | Researcher | To be assigned |
 | Reviewer | To be assigned |
 | Status | Draft reference specification |

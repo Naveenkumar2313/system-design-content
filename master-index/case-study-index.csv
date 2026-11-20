@@ -5,3 +5,8 @@ CS-007,Design a Load Balancer,Web & Internet Systems,Beginner-Intermediate,case-
 CS-008,Design a CDN (Content Delivery Network),Web & Internet Systems,Beginner-Intermediate,case-studies/CS-008-cdn,Draft,CMP-001
 CS-009,Design a File Upload Service,Web & Internet Systems,Beginner-Intermediate,case-studies/CS-009-file-upload-service,Draft,CMP-001
 CS-010,Design a File Download Service,Web & Internet Systems,Beginner-Intermediate,case-studies/CS-010-file-download-service,Draft,CMP-001
+CS-017,Design a URL Preview Service,Web & Internet Systems,Intermediate,case-studies/CS-017-url-preview-service,Draft,CMP-001
+CS-018,Design a Link Preview Generator,Web & Internet Systems,Intermediate,case-studies/CS-018-link-preview-generator,Draft,CMP-001
+CS-019,Design a Webhook Delivery Platform,Web & Internet Systems,Intermediate,case-studies/CS-019-webhook-delivery-platform,Draft,CMP-001
+CS-020,Design an HTTP Proxy,Web & Internet Systems,Intermediate,case-studies/CS-020-http-proxy,Draft,CMP-001
+CS-021,Design WhatsApp,Communication & Collaboration,Intermediate,case-studies/CS-021-whatsapp,Draft,CMP-001

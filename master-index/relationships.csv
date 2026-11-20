@@ -5,3 +5,8 @@ case_study,CS-007,uses,component,CMP-001,Case Study 7 develops a system-level de
 case_study,CS-008,uses,component,CMP-001,CDN architecture uses traffic distribution for origins and may use load balancing within delivery services.
 case_study,CS-009,uses,component,CMP-001,File upload APIs use load balancing across replicated gateway and upload-service instances.
 case_study,CS-010,uses,component,CMP-001,File download control-plane APIs use load balancing across replicated gateway and download-service instances.
+case_study,CS-017,uses,component,CMP-001,URL Preview APIs use load balancing across replicated preview-service instances.
+case_study,CS-018,uses,component,CMP-001,Link Preview Generator APIs use load balancing across replicated generator instances.
+case_study,CS-019,uses,component,CMP-001,Webhook API and delivery-control traffic use load balancing across replicated platform instances.
+case_study,CS-020,uses,component,CMP-001,HTTP proxy traffic and management APIs use load balancing across replicated proxy instances.
+case_study,CS-021,uses,component,CMP-001,WhatsApp-style messaging clients and API traffic use load balancing across gateways and connection services.
